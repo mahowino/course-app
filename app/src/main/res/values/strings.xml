@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Course App</string>
+
+    <string-array name="grades">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>undefined</item>
+    </string-array>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/drawable/background_textview_no_boarders.xml" value="0.208" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/drawable/btn_background.xml" value="0.214" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/drawable/button_signup.xml" value="0.101" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/drawable/dialog_bg.xml" value="0.214" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/drawable/ic_wave.xml" value="0.101" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/layout/activity_final_sender.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/layout/activity_home_page.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/layout/activity_login_screen.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/layout/activity_mark_course.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/layout/activity_my_cart.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/layout/activity_sign_up.xml" value="0.1875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/layout/cart_product.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/layout/category_card.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/layout/course_items.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/layout/loading_dialog.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/layout/product_selector.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CourseApp/app/src/main/res/menu/grades.xml" value="0.38697916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
